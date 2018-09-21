@@ -1,0 +1,3 @@
+[submodule "MSD"]
+	path = MSD
+	url = https://github.com/sands7788/MSD.git
